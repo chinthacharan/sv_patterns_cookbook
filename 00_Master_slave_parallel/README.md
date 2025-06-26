@@ -1,9 +1,5 @@
 # sv_patterns_cookbook
 
-## 📘 Description
-
-This repository showcases a clean SystemVerilog example for launching **master-slave transactions in parallel** — a common pattern in testbench design, especially in performance-critical verification environments.
-
 The goal is to:
 
 - Simultaneously launch multiple master transactions for speed.
